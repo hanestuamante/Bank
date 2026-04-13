@@ -1,0 +1,10 @@
+```
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Images (not ignored as per rule)
+# target_distribution.png - kept in repo as it's an image file
+```
